@@ -1,0 +1,25 @@
+   cd env
+   cd prg
+   ls
+   cd anya
+   ls
+   mkdir less1
+   ls
+   cd less1
+   history
+   history > history_
+   vim history
+   vim history_
+   echo frog >> history_ 
+   vim history_ 
+   echo $(ls) >> new_file
+   vim new_file 
+ * echo $(ls) 
+   echo $(ls) > new_file
+   vim new_file 
+   cat history_ 
+   echo $(cat history_) >> new_file
+   vim new_file 
+   echo history > history_ 
+   vim history_ 
+   history > history_ 
