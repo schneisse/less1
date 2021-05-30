@@ -1,0 +1,11 @@
+history_ new_file
+503 cd env
+504 cd prg
+505 ls
+506 cd anya
+507 ls
+508 mkdir less1
+509 ls
+510 cd less1
+511 history
+512 history > history_ frog
